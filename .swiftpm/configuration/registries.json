@@ -1,0 +1,11 @@
+{
+  "authentication" : {
+
+  },
+  "registries" : {
+    "[default]" : {
+      "url" : "https://lunchnlearn.jfrog.io/artifactory/api/swift/cal-swift-virtual"
+    }
+  },
+  "version" : 1
+}
